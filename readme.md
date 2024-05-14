@@ -65,7 +65,7 @@ Código: Jogo21.html
 
 ```
 Código estilo.CSS
-
+```
 .mesa{ /*cria a classe "mesa"*/
     position: fixed;n /*define a posição da mesa na página*/
     width:900px; /*define a largura da mesa na página*/
@@ -94,7 +94,7 @@ Código estilo.CSS
     width:60px; /*define a largura do baralho na página*/
     height:80px; /*define a altura do barulho na página*/
     background-color:yellow; /*define a cor de fundo da classe*/
-    }   
-    
+    }
+``` 
     ( ͡° ͜ʖ ͡°) 
 
